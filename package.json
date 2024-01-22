@@ -1,0 +1,22 @@
+{
+  "name": "twentysix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vite.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node vite.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^10.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.5",
+    "typescript": "^5.3.3",
+    "undici-types": "^6.4.0"
+  }
+}
